@@ -39,6 +39,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApiGateways", "ApiGateways"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OcelotApiGw", "ApiGateways\OcelotApiGw\OcelotApiGw.csproj", "{ED2F9CE2-8E3D-46B6-98A6-6A5B07E5AEE4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopping.Aggregator", "ApiGateways\Shopping.Aggregator\Shopping.Aggregator.csproj", "{50FEC2DA-4B44-41AF-916E-98BE1872BC60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -181,6 +183,18 @@ Global
 		{ED2F9CE2-8E3D-46B6-98A6-6A5B07E5AEE4}.Release|x64.Build.0 = Release|Any CPU
 		{ED2F9CE2-8E3D-46B6-98A6-6A5B07E5AEE4}.Release|x86.ActiveCfg = Release|Any CPU
 		{ED2F9CE2-8E3D-46B6-98A6-6A5B07E5AEE4}.Release|x86.Build.0 = Release|Any CPU
+		{50FEC2DA-4B44-41AF-916E-98BE1872BC60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50FEC2DA-4B44-41AF-916E-98BE1872BC60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50FEC2DA-4B44-41AF-916E-98BE1872BC60}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{50FEC2DA-4B44-41AF-916E-98BE1872BC60}.Debug|x64.Build.0 = Debug|Any CPU
+		{50FEC2DA-4B44-41AF-916E-98BE1872BC60}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{50FEC2DA-4B44-41AF-916E-98BE1872BC60}.Debug|x86.Build.0 = Debug|Any CPU
+		{50FEC2DA-4B44-41AF-916E-98BE1872BC60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50FEC2DA-4B44-41AF-916E-98BE1872BC60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50FEC2DA-4B44-41AF-916E-98BE1872BC60}.Release|x64.ActiveCfg = Release|Any CPU
+		{50FEC2DA-4B44-41AF-916E-98BE1872BC60}.Release|x64.Build.0 = Release|Any CPU
+		{50FEC2DA-4B44-41AF-916E-98BE1872BC60}.Release|x86.ActiveCfg = Release|Any CPU
+		{50FEC2DA-4B44-41AF-916E-98BE1872BC60}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -200,6 +214,7 @@ Global
 		{1879E771-22D3-47B8-B7F3-713E2AC09870} = {A0C5A5D4-790D-447A-983E-8C67CD630FFA}
 		{8B43A28A-5D40-4E46-A9CB-27A4945B4412} = {C316A28B-7E2B-45EC-B99E-76184436A349}
 		{ED2F9CE2-8E3D-46B6-98A6-6A5B07E5AEE4} = {7A5AD6EC-CDD0-4F14-AC46-C4472E30B8EA}
+		{50FEC2DA-4B44-41AF-916E-98BE1872BC60} = {7A5AD6EC-CDD0-4F14-AC46-C4472E30B8EA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {39857FB3-C608-4603-8E2B-4FAD8EE87D61}
